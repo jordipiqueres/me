@@ -1,0 +1,1175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Limpieza",
+        "Observaciones": "test",
+        "Fecha": "2019-04-09T15:27:54.45",
+        "Email": "jpiqueras@absis.es",
+        "Latitud": 41.3995,
+        "Longitud": 2.1952,
+        "GPS_Latitud": 41.3995,
+        "GPS_Longitud": 2.1952,
+        "ID_Incidencia": "INC25",
+        "ID_Dispositivo": null,
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\65\\4503c374-0b6d-44b6-b26e-ea5e08bae009\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1952,
+          41.3995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Parques y jardines",
+        "Observaciones": "Se ha caido una rama de un arbol",
+        "Fecha": "2019-02-28T11:41:52.257",
+        "Email": "jvaleriano@absis.es",
+        "Latitud": 40.4882,
+        "Longitud": -3.8736,
+        "GPS_Latitud": 40.4882,
+        "GPS_Longitud": -3.8736,
+        "ID_Incidencia": "INC26",
+        "ID_Dispositivo": null,
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\54\\8b7689d1-8aaf-4c2f-a1b4-9c646651d880\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8736,
+          40.4882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Parques y jardines",
+        "Observaciones": "Se ha caído una rama",
+        "Fecha": "2019-02-28T10:45:57.753",
+        "Email": "jvaleriano@absis.es",
+        "Latitud": 40.4882,
+        "Longitud": -3.8736,
+        "GPS_Latitud": 40.4882,
+        "GPS_Longitud": -3.8736,
+        "ID_Incidencia": "INC26",
+        "ID_Dispositivo": null,
+        "Estado": "Tramitada",
+        "Detalles": "Ok",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\43\\75a77c2d-a265-4123-9dc1-fbc0df644294\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8736,
+          40.4882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Limpieza",
+        "Observaciones": "test",
+        "Fecha": "2019-02-27T14:00:57.533",
+        "Email": "jpiqueras@absis.es",
+        "Latitud": 41.3981,
+        "Longitud": 2.1853,
+        "GPS_Latitud": 41.3981,
+        "GPS_Longitud": 2.1853,
+        "ID_Incidencia": "INC25",
+        "ID_Dispositivo": null,
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\4c\\b8438960-4cb5-48d2-a6f2-e62520fba79d\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1853,
+          41.3981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Parques y jardines",
+        "Observaciones": "El banco roto se tiene que areglar",
+        "Fecha": "2019-02-26T11:41:44.413",
+        "Email": "gcruanas@absis.es",
+        "Latitud": 41.3982,
+        "Longitud": 2.1914,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC26",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Tramitada",
+        "Detalles": "esta reparación es urgente",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\90\\f11f4077-4b19-4894-91bc-63709c8052f3\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1914,
+          41.3982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Elementos vía pública",
+        "Observaciones": "La parada de autobús tiene el techo roto",
+        "Fecha": "2019-02-26T10:14:37.167",
+        "Email": "tre@forcast.com",
+        "Latitud": 41.3988,
+        "Longitud": 2.1896,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC27",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\db\\424fee1b-9932-45fa-b29d-f71aec39e31f\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1896,
+          41.3988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Alumbrado",
+        "Observaciones": "Han roto la farola",
+        "Fecha": "2019-02-26T10:06:14.447",
+        "Email": "rvzquez@gmail.com",
+        "Latitud": 41.4025,
+        "Longitud": 2.1905,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC28",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Tramitada",
+        "Detalles": "canviar la bombilla",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\48\\573cc3bc-c781-44f1-8a0f-28848b64dd04\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1905,
+          41.4025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Alumbrado",
+        "Observaciones": "Han roto la farola",
+        "Fecha": "2019-02-26T10:06:11.06",
+        "Email": "rvzquez@gmail.com",
+        "Latitud": 41.4025,
+        "Longitud": 2.1905,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC28",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\b2\\dff0cd60-4fd5-4567-a674-c57abd9d6508\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1905,
+          41.4025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Elementos vía pública",
+        "Observaciones": "La paperera se ha roto y esta rodó muy sucio",
+        "Fecha": "2019-02-26T10:05:13.403",
+        "Email": "crunx91@gmail.com",
+        "Latitud": 41.3982,
+        "Longitud": 2.1915,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC27",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\d7\\58fd89cf-b4cc-4307-9dea-3114eb8a43e0\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1915,
+          41.3982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Parques y jardines",
+        "Observaciones": "Han roto el arbol recien plantado",
+        "Fecha": "2019-02-26T10:01:33.74",
+        "Email": "tre@forcast.com",
+        "Latitud": 41.4014,
+        "Longitud": 2.1874,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC26",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Tramitada",
+        "Detalles": "plantar arbol nuevo",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\f5\\c2df9fa7-c5c7-4562-8116-6a00488449f6\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1874,
+          41.4014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Parques y jardines",
+        "Observaciones": "Han roto el arbol recien plantado",
+        "Fecha": "2019-02-26T10:01:33.103",
+        "Email": "tre@forcast.com",
+        "Latitud": 41.4014,
+        "Longitud": 2.1874,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC26",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Tramitada",
+        "Detalles": "Plantar un nuevo arbol y retirar el viejo",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\2b\\bdca8b89-1d24-4ee0-9fa4-ae4b150d74ac\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1874,
+          41.4014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Otros",
+        "Observaciones": "Agujero en la calada ",
+        "Fecha": "2019-02-26T09:59:56.79",
+        "Email": "xarxa_dos@absis.com",
+        "Latitud": 41.4,
+        "Longitud": 2.1914,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC30",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\4a\\ae957123-2e4d-4034-9add-bc3f7746249d\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1914,
+          41.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Otros",
+        "Observaciones": "Agujero en la calada ",
+        "Fecha": "2019-02-26T09:59:54.76",
+        "Email": "xarxa_dos@absis.com",
+        "Latitud": 41.4,
+        "Longitud": 2.1914,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC30",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Tramitada",
+        "Detalles": "Deberiamos repavimentar esta zona",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\14\\da29feaa-4645-437d-bbef-f2d9e390f982\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1914,
+          41.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Otros",
+        "Observaciones": "Arreglar banco roto en el parque\n",
+        "Fecha": "2019-02-26T09:56:29.49",
+        "Email": "cuervas@gmail.com",
+        "Latitud": 41.4021,
+        "Longitud": 2.1886,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC30",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\21\\3c5a0b46-77d6-46eb-a6e4-029864226ff9\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1886,
+          41.4021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Elementos vía pública",
+        "Observaciones": "La parada del autobús esta rota ",
+        "Fecha": "2019-02-26T09:55:32.617",
+        "Email": "pepe_romo@hotmail.com",
+        "Latitud": 41.4017,
+        "Longitud": 2.1912,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC27",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\5e\\20829017-5f6a-492e-a1b6-dca3e241b1ba\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1912,
+          41.4017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Limpieza",
+        "Observaciones": "Cartell nuevo destrozado limpiar\n",
+        "Fecha": "2019-02-26T09:54:11.353",
+        "Email": "mortiz@gmail.com",
+        "Latitud": 41.3974,
+        "Longitud": 2.1905,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC25",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\8f\\2397c2e4-87c4-4106-9108-23984afbe292\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1905,
+          41.3974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Otros",
+        "Observaciones": "Hoy se ha tropezaeo un señor. Arreglar por fabor\n",
+        "Fecha": "2019-02-26T09:52:26.78",
+        "Email": "roberto64@gmail.com",
+        "Latitud": 41.4017,
+        "Longitud": 2.1893,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC30",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\5a\\afade9cf-7689-4407-b592-9766c443af30\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1893,
+          41.4017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Limpieza",
+        "Observaciones": "Esta noche han tumbado un container y esta Toda la basura por el sulo. ",
+        "Fecha": "2019-02-26T09:30:21.883",
+        "Email": "raul_45@gmail.com",
+        "Latitud": 41.4014,
+        "Longitud": 2.1874,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC25",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\78\\4cc92787-3d9d-4aab-b66e-0430539dbd62\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1874,
+          41.4014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Elementos vía pública",
+        "Observaciones": "Hay un palo en el sulo. Hace 3 dias que est roto y nadie lo arregla. ",
+        "Fecha": "2019-02-26T09:27:02.68",
+        "Email": "pepe.romero@absis.es",
+        "Latitud": 41.3984,
+        "Longitud": 2.1871,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC27",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Eliminada",
+        "Detalles": "f",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\5d\\23e792aa-cce3-4200-a4c1-d3543e794aa0\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1871,
+          41.3984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Elementos vía pública",
+        "Observaciones": "Hay un palo en el sulo. Hace 3 dias que est roto y nadie lo arregla. ",
+        "Fecha": "2019-02-26T09:27:00.473",
+        "Email": "pepe.romero@absis.es",
+        "Latitud": 41.3984,
+        "Longitud": 2.1871,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC27",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\1c\\47b9de89-81b8-4a26-b729-5e6aa0a75302\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1871,
+          41.3984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Elementos vía pública",
+        "Observaciones": "Hay un palo en el sulo. Hace 3 dias que est roto y nadie lo arregla. ",
+        "Fecha": "2019-02-26T09:23:21.973",
+        "Email": "pepe.romero@absis.es",
+        "Latitud": 41.404,
+        "Longitud": 2.1886,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC27",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Eliminada",
+        "Detalles": "errror",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\74\\c148d0c4-90ae-4f26-92e8-3b0ac48b86d3\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1886,
+          41.404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Elementos vía pública",
+        "Observaciones": "Hay un palo en el sulo. Hace 3 dias que est roto y nadie lo arregla. ",
+        "Fecha": "2019-02-26T09:23:07.863",
+        "Email": "pepe.romero@absis.es",
+        "Latitud": 41.404,
+        "Longitud": 2.1886,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC27",
+        "ID_Dispositivo": "eedef45a-a2f5-4002-a3ec-cfec6234d79b",
+        "Estado": "Eliminada",
+        "Detalles": "error",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\b6\\7b0ced26-6f7b-42e7-9eff-761ab337449e\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1886,
+          41.404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Otros",
+        "Observaciones": "Sin imagen",
+        "Fecha": "2018-12-21T13:27:20.533",
+        "Email": "tecno02@absis.es",
+        "Latitud": 40.4943,
+        "Longitud": -3.8745,
+        "GPS_Latitud": 40.4928,
+        "GPS_Longitud": -3.8747,
+        "ID_Incidencia": "INC30",
+        "ID_Dispositivo": "07303152-7664-43b9-a4ca-ec396f8b2974",
+        "Estado": "Eliminada",
+        "Detalles": "fds",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\56\\6e2ee155-59ad-44d6-9163-32dcfab54998\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8745,
+          40.4943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Parques y jardines",
+        "Observaciones": "Árbol caído",
+        "Fecha": "2018-12-18T12:40:33.06",
+        "Email": "test@es.es",
+        "Latitud": 41.4009,
+        "Longitud": 2.1883,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1895,
+        "ID_Incidencia": "INC26",
+        "ID_Dispositivo": "d7b660d1-0b3f-4750-a166-5621e6fb6776",
+        "Estado": "Tramitada",
+        "Detalles": "Enviado a la empresa para su gestión",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\a9\\a7c2ffb8-ab82-4985-b6f1-1e364bcd3805\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1883,
+          41.4009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Parques y jardines",
+        "Observaciones": "Suelo roto",
+        "Fecha": "2018-12-18T12:18:26.737",
+        "Email": "test@es.es",
+        "Latitud": 40.4937,
+        "Longitud": -3.8737,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1896,
+        "ID_Incidencia": "INC26",
+        "ID_Dispositivo": "d7b660d1-0b3f-4750-a166-5621e6fb6776",
+        "Estado": "Tramitada",
+        "Detalles": "Esta incidencia tiene prioridad alta ya que està en un parque infantil en el centro del pueblo",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\e0\\d11d86ce-3188-4995-a4a3-bf0207146c14\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8737,
+          40.4937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Alumbrado",
+        "Observaciones": "Test",
+        "Fecha": "2018-12-17T15:07:34.57",
+        "Email": "jpiqueras@absia.es",
+        "Latitud": 41.4006,
+        "Longitud": 2.1902,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1896,
+        "ID_Incidencia": "INC28",
+        "ID_Dispositivo": "e2c42a2a-6280-4f88-8942-c22eb9824ae9",
+        "Estado": "Tramitada",
+        "Detalles": "t",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\51\\e865f2b6-4725-46a8-8ae4-47bb9c225b5c\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1902,
+          41.4006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Alumbrado",
+        "Observaciones": "Test",
+        "Fecha": "2018-12-17T14:45:54.74",
+        "Email": "jpiqueras@absis.es",
+        "Latitud": 41.3994,
+        "Longitud": 2.1901,
+        "GPS_Latitud": 41.4003,
+        "GPS_Longitud": 2.1896,
+        "ID_Incidencia": "INC28",
+        "ID_Dispositivo": "e2c42a2a-6280-4f88-8942-c22eb9824ae9",
+        "Estado": "Tramitada",
+        "Detalles": "teswt",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\44\\c3402bde-6c59-43a4-92ee-4686c066a8a0\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1901,
+          41.3994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Alumbrado",
+        "Observaciones": "Test",
+        "Fecha": "2018-12-17T14:41:56.11",
+        "Email": "jpiqueras@absis.es",
+        "Latitud": 41.3994,
+        "Longitud": 2.1912,
+        "GPS_Latitud": 41.4003,
+        "GPS_Longitud": 2.1896,
+        "ID_Incidencia": "INC28",
+        "ID_Dispositivo": "e2c42a2a-6280-4f88-8942-c22eb9824ae9",
+        "Estado": "Tramitada",
+        "Detalles": "test",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\5a\\485024ed-bb82-495f-9549-d80fd8c0bf66\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1912,
+          41.3994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Alumbrado",
+        "Observaciones": "Test",
+        "Fecha": "2018-12-10T12:34:03.98",
+        "Email": "Jpiqueras@absis.es",
+        "Latitud": 41.4003,
+        "Longitud": 2.1895,
+        "GPS_Latitud": 41.4003,
+        "GPS_Longitud": 2.1895,
+        "ID_Incidencia": "INC28",
+        "ID_Dispositivo": "e2c42a2a-6280-4f88-8942-c22eb9824ae9",
+        "Estado": "Tramitada",
+        "Detalles": "t",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\f1\\6c579e53-1dcf-4252-803b-37093c8a3c99\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1895,
+          41.4003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Limpieza",
+        "Observaciones": "Cvmbcch",
+        "Fecha": "2018-11-21T11:20:18.227",
+        "Email": "g@g.com",
+        "Latitud": 41.4005,
+        "Longitud": 2.1897,
+        "GPS_Latitud": 0,
+        "GPS_Longitud": 0,
+        "ID_Incidencia": "INC25",
+        "ID_Dispositivo": "d7b660d1-0b3f-4750-a166-5621e6fb6776",
+        "Estado": "Tramitada",
+        "Detalles": "t",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\5f\\d109200d-d60c-44d1-805f-70e26bab9b0f\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1897,
+          41.4005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Otros",
+        "Observaciones": "Test again",
+        "Fecha": "2018-11-21T09:32:52.57",
+        "Email": "test@absis.es",
+        "Latitud": 0,
+        "Longitud": 0,
+        "GPS_Latitud": 0,
+        "GPS_Longitud": 0,
+        "ID_Incidencia": "INC30",
+        "ID_Dispositivo": "d7b660d1-0b3f-4750-a166-5621e6fb6776",
+        "Estado": "Eliminada",
+        "Detalles": "grfsd",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\22\\40ad9b95-671d-4f29-8770-ab913d4b8e35\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Otros",
+        "Observaciones": "Default image",
+        "Fecha": "2018-11-21T09:25:19.83",
+        "Email": "test@absis.es",
+        "Latitud": 41.4005,
+        "Longitud": 2.1888,
+        "GPS_Latitud": 0,
+        "GPS_Longitud": 0,
+        "ID_Incidencia": "INC30",
+        "ID_Dispositivo": "d7b660d1-0b3f-4750-a166-5621e6fb6776",
+        "Estado": "Tramitada",
+        "Detalles": "default image tramited",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\34\\ba305114-2b52-49b3-aba9-8d668eca4080\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1888,
+          41.4005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Limpieza",
+        "Observaciones": "A",
+        "Fecha": "2018-10-30T09:09:07.88",
+        "Email": "as@as.con",
+        "Latitud": 41.4001,
+        "Longitud": 2.1891,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1896,
+        "ID_Incidencia": "INC25",
+        "ID_Dispositivo": "19000030-08b0-485c-94e2-cda3ce397eff",
+        "Estado": "Tramitada",
+        "Detalles": "t",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\4f\\7a280a58-d519-48a2-8bac-7a33ee9b8952\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1891,
+          41.4001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Limpieza",
+        "Observaciones": "Test",
+        "Fecha": "2018-10-25T12:52:01.427",
+        "Email": "as@as.com",
+        "Latitud": 40.4928,
+        "Longitud": -3.8741,
+        "GPS_Latitud": 40.4928,
+        "GPS_Longitud": -3.8747,
+        "ID_Incidencia": "INC25",
+        "ID_Dispositivo": "537eaa50-6e44-4f1d-add4-1fddb1f98128",
+        "Estado": "Tramitada",
+        "Detalles": "t",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\4f\\303d0a53-c6fb-4848-9d95-d0998fbe530a\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8741,
+          40.4928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Enllumenat",
+        "Observaciones": "Test",
+        "Fecha": "2018-10-16T08:24:00.28",
+        "Email": "jpiqueras@absis.es",
+        "Latitud": 41.4002,
+        "Longitud": 2.1896,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1896,
+        "ID_Incidencia": "INC28",
+        "ID_Dispositivo": "8ec7fbe1-dc53-4975-a30a-64f3ad968adf",
+        "Estado": "Tramitada",
+        "Detalles": "t",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\e2\\255e8ab0-2cc2-4597-9d2a-444b37e71307\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1896,
+          41.4002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Elementos vía pública",
+        "Observaciones": null,
+        "Fecha": "2018-09-21T13:32:18.757",
+        "Email": "er@sas",
+        "Latitud": 37.7859,
+        "Longitud": -122.4065,
+        "GPS_Latitud": 37.7858,
+        "GPS_Longitud": -122.4064,
+        "ID_Incidencia": "INC27",
+        "ID_Dispositivo": "06dc657e-3316-4d95-a288-4eddfa2d2683",
+        "Estado": "Tramitada",
+        "Detalles": "t",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\1d\\c628545c-73b2-4ce1-a4dc-1f3959c44189\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4065,
+          37.7859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Parques y jardines",
+        "Observaciones": "Test ",
+        "Fecha": "2018-09-21T13:20:16.893",
+        "Email": "a@a",
+        "Latitud": 41.3999,
+        "Longitud": 2.1893,
+        "GPS_Latitud": 41.4003,
+        "GPS_Longitud": 2.1895,
+        "ID_Incidencia": "INC26",
+        "ID_Dispositivo": "25ba5fd3-50af-4828-9216-892a1c6eb0e9",
+        "Estado": "Tramitada",
+        "Detalles": "t",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\7a\\f7082a49-a90c-49f5-b2ac-7c4c5c1e9651\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1893,
+          41.3999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Parques y jardines",
+        "Observaciones": "Test",
+        "Fecha": "2018-09-21T13:08:33.75",
+        "Email": "a@a",
+        "Latitud": 37.7856,
+        "Longitud": -122.4065,
+        "GPS_Latitud": 37.7858,
+        "GPS_Longitud": -122.4064,
+        "ID_Incidencia": "INC26",
+        "ID_Dispositivo": "8dccbd04-5efa-46c6-86ec-4a89c6f066c0",
+        "Estado": "Eliminada",
+        "Detalles": "t",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\07\\28f1bd80-00af-4cd4-9b8e-ce0a95e6fa67\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4065,
+          37.7856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Elementos vía pública",
+        "Observaciones": "Test",
+        "Fecha": "2018-09-21T13:06:37.533",
+        "Email": "tets@xc.com",
+        "Latitud": 41.4001,
+        "Longitud": 2.1893,
+        "GPS_Latitud": 41.4002,
+        "GPS_Longitud": 2.1896,
+        "ID_Incidencia": "INC27",
+        "ID_Dispositivo": "14d36ac7-7fd4-4c2a-9888-d6b1028c6b10",
+        "Estado": "Eliminada",
+        "Detalles": "d",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\1a\\3cf9453a-fb70-4032-9988-a09bd5c5d225\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1893,
+          41.4001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Elementos vía pública",
+        "Observaciones": null,
+        "Fecha": "2018-09-21T13:03:34.79",
+        "Email": "errere@ddsds",
+        "Latitud": 37.7872,
+        "Longitud": -122.4066,
+        "GPS_Latitud": 37.7858,
+        "GPS_Longitud": -122.4064,
+        "ID_Incidencia": "INC27",
+        "ID_Dispositivo": "8dccbd04-5efa-46c6-86ec-4a89c6f066c0",
+        "Estado": "Eliminada",
+        "Detalles": "t",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\bd\\1288b3b7-2927-41e1-84de-f4b2726e0396\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4066,
+          37.7872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Neteja",
+        "Observaciones": null,
+        "Fecha": "2018-08-30T14:48:28.427",
+        "Email": "h@h.c",
+        "Latitud": 41.3949,
+        "Longitud": 2.1892,
+        "GPS_Latitud": 41.3999,
+        "GPS_Longitud": 2.1893,
+        "ID_Incidencia": "INC25",
+        "ID_Dispositivo": "5dd8be1f-8b27-4c2e-813a-73b658823693",
+        "Estado": "Eliminada",
+        "Detalles": "t",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\40\\6e6560bc-c2d3-4e61-b08c-fb28f3644432\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1892,
+          41.3949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Parcs y jardins",
+        "Observaciones": "Hi ha un element perillós ....",
+        "Fecha": "2018-07-25T02:49:22.907",
+        "Email": "jvaleriano@absis.es",
+        "Latitud": -13.5315,
+        "Longitud": -71.963,
+        "GPS_Latitud": -13.5316,
+        "GPS_Longitud": -71.9632,
+        "ID_Incidencia": "INC26",
+        "ID_Dispositivo": "f18a203e-9a78-4ad9-99c8-ba0c8f18b1a3",
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\85\\2b12af36-f5c4-47c7-9384-6a5c94edd9b7\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.963,
+          -13.5315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Parcs y jardins",
+        "Observaciones": "Hi ha un element perillós ....",
+        "Fecha": "2018-07-25T02:49:18.623",
+        "Email": "jvaleriano@absis.es",
+        "Latitud": -13.5315,
+        "Longitud": -71.963,
+        "GPS_Latitud": -13.5316,
+        "GPS_Longitud": -71.9632,
+        "ID_Incidencia": "INC26",
+        "ID_Dispositivo": "f18a203e-9a78-4ad9-99c8-ba0c8f18b1a3",
+        "Estado": "Eliminada",
+        "Detalles": "d",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\d6\\46e85d6a-dee2-438c-9901-aa6ccbe2c066\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.963,
+          -13.5315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Tecnogeo Participa",
+        "Tipo_Incidencia": "Elements via pública",
+        "Observaciones": null,
+        "Fecha": "2018-06-26T18:34:55.387",
+        "Email": "hsjssjsj@www.es",
+        "Latitud": 41.4919,
+        "Longitud": 2.3558,
+        "GPS_Latitud": 41.4917,
+        "GPS_Longitud": 2.3558,
+        "ID_Incidencia": "INC27",
+        "ID_Dispositivo": "5dd8be1f-8b27-4c2e-813a-73b658823693",
+        "Estado": "Eliminada",
+        "Detalles": "gfsd",
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Tecnogeo Participa\\f3\\5d84a17a-d162-4a0c-bc47-dae41a34d6fd\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3558,
+          41.4919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Autor": "Demo Tecnogeo",
+        "Tipo_Incidencia": "Otros",
+        "Observaciones": "La marquesina de la para del autobús está totalmente destrozada. No queda ni un protector lateral para el viento!",
+        "Fecha": "2017-11-08T12:29:12.773",
+        "Email": "sguma@absis.es",
+        "Latitud": 41.4052,
+        "Longitud": 2.1952,
+        "GPS_Latitud": 0,
+        "GPS_Longitud": 0,
+        "ID_Incidencia": "INC30",
+        "ID_Dispositivo": "f269984d-43ef-4166-b44f-8fd4e85deb40",
+        "Estado": "Recibida",
+        "Detalles": null,
+        "URL_Imagen": "http://participa.absiscloud.com/ParticipaAdmin/Incidence/GetImage?URL=c:\\PARTICIPA\\NOTIFICACIONES\\Demo Tecnogeo\\20\\0ed7ef10-e518-4661-88ae-c0ac17933978\\"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1952,
+          41.4052
+        ]
+      }
+    }
+  ]
+}
