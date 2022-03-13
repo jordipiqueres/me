@@ -1,0 +1,11 @@
+.technicalskills-group {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 5px 2px;
+}
+
+.technicalskills-group > div {
+  padding: 0.8em 0.2em;
+  border-bottom: 1px solid #f1f1f1;
+}
+

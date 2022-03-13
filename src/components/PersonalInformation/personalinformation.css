@@ -1,0 +1,17 @@
+.PersonalInformation {
+  margin: 4.5em 0 0 0;
+}
+.PersonalInformation .values {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 2px;
+}
+.title {
+  padding: 2px 0;
+  font-size: 18px;
+  font-weight: 600;
+  border-bottom: 1px solid;
+}
+.values > div {
+  padding: 0.1em;
+}

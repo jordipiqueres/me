@@ -1,0 +1,13 @@
+.Education {
+  padding: 2em 0 0 0;
+}
+
+.education-values {
+  display: grid;
+  grid-template-columns: 2fr 2fr 1fr;
+  padding: 5px 2px;
+}
+
+.education-values > div {
+  padding: 0.1em 0;
+}

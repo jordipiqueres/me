@@ -3,6 +3,11 @@ const path = require('path')
 
 // loader: biblioteca que entiende algo del código y lo transforma para que webpack lo entienda
 
+const rulesForImages =  {
+  test: /\.(png|jpg|jpeg|gif)$/i,
+  use: ['file-loader',]
+};
+
 const ruleForStyles = {
   test: /\.css$/,
   use: [
@@ -32,7 +37,7 @@ const rulesForJavascript =  {
 
 // no tener que generar un html index a mano
 
-const rules = [rulesForJavascript, ruleForStyles];
+const rules = [rulesForJavascript, ruleForStyles, rulesForImages];
 
 // la configuración de webpack puede ser también un objeto o una función
 module.exports = (env, argv) => {

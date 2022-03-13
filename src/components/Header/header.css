@@ -1,0 +1,14 @@
+.HeaderPack {
+  display: block;
+  position: relative;
+}
+
+.Header {
+  color: white;
+  background-color: #7d9fc9;
+  font-size: 42px;
+  text-align: center;
+  padding: 4rem 0;
+  font-weight: 600;
+  border-bottom: 2px solid #dadada;
+}

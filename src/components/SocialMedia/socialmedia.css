@@ -1,0 +1,8 @@
+div.socialmedia {
+  display: inline-block;
+  padding: 1em;
+  vertical-align: middle;
+}
+.socialmedia-banner {
+  max-width: 160px;
+}
