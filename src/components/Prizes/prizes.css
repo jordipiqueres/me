@@ -5,3 +5,14 @@
 .prizesskills {
   padding: 5px 2px;
 }
+.prize a:link, .prize a:visited {
+  color: black;
+  vertical-align: middle;
+  margin-left: 5px;
+}
+.prize a:hover {
+  color: darkgrey;
+}
+a svg {
+  font-size: 2em;
+}

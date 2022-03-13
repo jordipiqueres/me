@@ -1,6 +1,6 @@
 
 import React from 'react'
-
+import { MdLink } from 'react-icons/md'
 import './other.css'
 
 export default function Other ({ params }) {
@@ -11,7 +11,7 @@ export default function Other ({ params }) {
       <div className='otherskills'>
         {
          otherskills.other_values && otherskills.other_values.map((item, index) => {
-          return (<div id={'otherskills-' + index} className='skills'>{item.title} {item.link}</div>)
+          return (<div id={'otherskills-' + index} className='skills'>{item.title} <a href={item.link}><MdLink></MdLink></a></div>)
         })
       }
       </div>
