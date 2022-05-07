@@ -11,7 +11,7 @@ export default function Prizes ({ params }) {
       <div className='prizesskills'>
       {
          prizes.prizes_values && prizes.prizes_values.map((item, index) => {
-          return (<div id={'prizes-' + index} className='prize'>{item.title} <a href={item.link}><MdLink></MdLink></a></div>)
+          return (<div key={'prizes-' + index} className='prize'>{item.title} <a href={item.link}><MdLink></MdLink></a></div>)
         })
       }
       </div>

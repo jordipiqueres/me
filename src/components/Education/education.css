@@ -2,10 +2,16 @@
   padding: 2em 0 0 0;
 }
 
+.education-header {
+  display: grid;
+  grid-template-columns: 2fr 2fr 1fr;
+  padding: 5px 2px 0px 2px;
+  font-weight: 700;
+}
 .education-values {
   display: grid;
   grid-template-columns: 2fr 2fr 1fr;
-  padding: 5px 2px;
+  padding: 0 2px;
 }
 
 .education-values > div {

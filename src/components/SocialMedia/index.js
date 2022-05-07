@@ -11,7 +11,7 @@ export default function SocialMedia ({ params }) {
       {
          socialmedia.links && socialmedia.links.map((item, index) => {
           return (
-          <div id={'socialmedia-' + index} className='socialmedia'>
+          <div key={'socialmedia-' + index} className='socialmedia'>
             <a href={item.link} target='_blank'><img src={item.img} className='socialmedia-banner' style={{width: `${item.width}`}}></img></a>
             </div>
           )

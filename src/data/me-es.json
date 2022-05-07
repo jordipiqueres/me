@@ -1,0 +1,168 @@
+{
+  "header": {
+    "title": "Curriculum Vitae",
+    "name": "Jordi Piqueres Bautista",
+    "description": "Curriculum Vitae - GIS Developer - Desenvolupador SIG - Desarrollador SIG"
+  },
+"personalinformation": {
+  "title_personalinfo": "Información personal",
+  "name_title": "Nombre",
+  "name_value": "Jordi Piqueres Bautista",
+  "birth_title": "Lugar y fecha de nacimiento",
+  "birth_value": "Barcelona, 20 de octubre de 1981",
+  "telephone_title": "Teléfono",
+  "telephone_value": "(+34) 659 230 484",
+  "email_title": "e-mail",
+  "email_value": "piqueresbautistajordi@gmail.com"
+},
+"education": {
+  "title_studies": "Formación académica",
+  "bachelor_title": "Título",
+  "bachelor_center": "Centro de estudios",
+  "bachelor_year": "Año",
+  "bachelor_values": [
+    {
+      "title": "Ingenieria informática",
+      "center": "Universitat Oberta de Catalunya (UOC)",
+      "year": "Feb. 2008"
+    },
+    {
+      "title": "Ingenieria técnica en informática de gestión",
+      "center": "Escola  Universitaria  Politècnica de Mataró (EUPMT – UPC)",
+      "year": "Feb. 2005"
+    }
+  ]
+},
+"workexperience": {
+  "title": "Experiencia laboral",
+  "values":
+  [{
+    "job": "Berger Levrault - Tecnogeo",
+    "year": "Mayo 2013 – Presente",
+    "position": "Analista programador",
+    "description": [
+      "Administración, mantenimento y desarrollo de los servicios, herramienta y aplicación de Geoportal en plataforma cloud AWS: IAM, S3, EC2, DynamoDB: Galería geoportal.",
+      "Desarrollo de aplicaciones web y servicios RESTful basados en Nodejs.",
+      "Mantenimiento y desarrollo de aplicaciones basados en MVC .NET Framework 4.5",
+      "Tareas de análisis de datos y lideraje en el desarrollo de diferentes proyectos front-end basados en Carto y cons us APIs: buses mobility, effincency of energy, etc.",
+      "Trabajo en diferents proyectos basados en diversas librerías javascript para el desarrollo de visores cartográficos y de obtención de información geográfica: Google Maps API / OpenLayers / Leaflet / Mapbox / Carto.",
+      "Análisis de información geospacial y configuración y administración de geoservicops (QGis, Geoserver, PostGIS).",
+      "Experiencia con librerías GDAL / Ogr2Ogr, confección de scripts, transformación y procesamiento de datos, volcado de datos.",
+      "Participación en un proyecto de Geocoding basado con el stack ELK (ElasticSearch+Kibana+Logstash): servicios Web API REST desarrollados en Nodejs y front-end con React."
+      ]
+    }, 
+    {
+      "job": "SITEP",
+      "year": "Marzo 2008 – Mayo 2013",
+      "position": "Analista programador",
+      "description": [
+        "Trabajando como analista/programador en el desarrollo de proyectos GIS basados en Flex, Java J2EE y VB.NET.",
+        "Realizando tareas de desarrollo y de mantenimiento de aplicaciones GIS basadas en VB.NET i C#.",
+        "Participación en el desarrollo d'herramientas para el análisis de datos y de geomárketing a través de JSP + Openlayers + JS + jQuery: http://w141.bcn.cat",
+        "Instalación y actualización de sistemas de información geográficos basados en la plataforma ESRI ArcGIS.",
+        "Configuración de servidores, tratamiento de la información y publicación de geoservicios en ArcGIS Server, Geoserver y Geomedia WebMap."
+    ]
+    }, 
+    {
+      "job": "Ubuntu - Fórum Mundial de Redes de la Sociedad Civil",
+      "year": "Septiembre 2006 – Febrero 2008",
+      "position": "Webmaster",
+      "description": [
+        "Trabajando como desarrollador web. Mantenimiento de los sitios web públicos/privados en PHP + javascript + CSS",
+        "Funciones de DBA en un sistema gestor de base de dades basado MySQL",
+        "Funciones de Helpdesk"
+    ]
+    }
+  ]
+},
+"technicalskills": {
+  "skills_title": "Habilitades técnicas",
+  "skills": [
+    {
+      "title": "Lenguajes de programación y frameworks",
+      "values": ["HTML5, CSS3","Javascript, Nodejs, React",".NET Framework: ASP.NET, C#, EF, MVC, WCF, Odata"]
+    }, {
+      "title": "Desarrollo GIS",
+      "values": ["Openlayers, Leaflet, Google Maps APIs, Carto, Mapbox",
+      "Geoserver, Geowebcache",
+      "Formatos de datos: Geojson, VectorTile, Shape, KML, WKT",
+      "Base de dades (Spatial): Oracle (locator/spatial), MS SQL Server, PostGIS"]
+    }, {
+      "title": "Bases de datos",
+      "values": ["Oracle PL/SQL, Postgres / PostGIS, MS SQL Server, Mongo"]
+    }, {
+      "title": "Web servers",
+      "values": ["Apache, IIS, Nginx, Tomcat"]
+    }, {
+      "title": "Plataforma Cloud",
+      "values": ["AWS"]
+    }, {
+      "title": "Control de versiones",
+      "values": ["Git"]
+    }, {
+      "title": "Metodología de trabajo",
+      "values": ["SCRUM - Agile"]
+    }, {
+      "title": "Otros",
+      "values": ["Diagramas UML/ER: draw.io, Sybase Power Designer",
+      "CKAN (Opendata)",
+      "Herramientas desktop y procesado de datos: QGIS, GDAL / OGR2OGR"]
+    }]
+},
+"personalskills": {
+  "personal_title": "Personal",
+  "personal_values": [
+    "Perspectiva de aprender nuevas tecnologías y motivación para nuevos retos.",
+    "Buena de predisposición para el trabajo en equipo.",
+    "Facilidad de adaptación a nuevos entornos."
+  ]
+},
+"languages": {
+  "languages_title": "Idiomes",
+  "languages_values": [
+    "Catalan: lengua materna",
+    "Castellà: lengua materna",
+    "Anglès: buen nivel de comprensión, escrito y hablado"
+  ]
+},
+"other": {
+  "other_title": "Otra formación complentaria",
+  "other_values": [{ "title": "Udemy online course Javascript: Learn and understand Nodejs", "link": "https://www.udemy.com/course/understand-nodejs/"},
+  { "title": "Udemy online course Javascript: understanding the weird parts", "link": "hhttps://www.udemy.com/course/understand-javascript/"},
+  { "title": "Udemy online course Javascript: AWS - Certified Developer", "link": "https://www.udemy.com/course/aws-certified-developer-associate/"},
+  { "title": "Udemy online course Javascript: AWS - Certified Solutions Architect", "link": "https://www.udemy.com/course/aws-certified-solutions-architect-associate/"}]
+},
+"prizes": {
+  "prizes_title": "Otros - premios y reconocimientos",
+  "prizes_values": [{"title" :"3rd prize T-Labs & Tsystems Blockchain Mobility Hackaton - feb. 2019", "link": "https://devpost.com/software/gflat"}]
+},
+"socialmedia": {
+  "social_title": "Redes Sociales",
+  "links": [{
+    "img": "https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png",
+    "link": "http://es.linkedin.com/pub/jordi-piqueras-bautista/26/208/508",
+    "width": "200px"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png",
+    "link": "https://github.com/jordipiqueres",
+    "width": "80px"
+  },
+  {
+    "img": "https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.2560.jpg",
+    "link": "https://twitter.com/piquerasjordi",
+    "width": "80px"
+  },
+  {
+    "img": "https://s.yimg.com/pw/images/goodies/white-im-on-flickr.png",
+    "link": "http://www.flickr.com/photos/fibonaki/",
+    "width": "120px"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a9/500px_logo_2016.svg",
+    "link": "https://500px.com/p/fibonaki",
+    "width": "120px"
+  }]
+}
+
+}

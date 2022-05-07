@@ -11,7 +11,7 @@ export default function PersonalSkills ({ params }) {
       <div className='personalskills'>
         {
          personalskills.personal_values && personalskills.personal_values.map((item, index) => {
-          return (<div id={'personalskills-' + index} className='skills'>{item}</div>)
+          return (<div key={'personalskills-' + index} className='skills'>{item}</div>)
         })
       }
       </div>
