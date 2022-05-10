@@ -14,6 +14,7 @@ import Prizes from '../../components/Prizes'
 import SocialMedia from '../../components/SocialMedia'
 import LanguageContext from '../../context/LanguageContext'
 import photo from '../../data/me.jpg' // Tell webpack this JS file uses this image
+import CookieConsent from '../../components/CookieConsent'
 
 const Home = () => {
   const [personalinformation, setPersonalInformationValues] = useState(0)

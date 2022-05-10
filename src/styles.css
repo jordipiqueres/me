@@ -18,3 +18,18 @@ body {
   border-right: 1px solid #fafafa;
   background-color: rgb(255 255 255 / 55%);
 }
+
+.App-content {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 900px) {
+  .container-of-me {
+    padding: 2em 2em;
+  }
+  .App-content {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+}
